@@ -7,6 +7,6 @@ copyrightpoiiiii/copyrightpoiiiii is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![copyrightpoiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=copyrightpoiiiii)
+![copyrightpoiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=copyrightpoiiiii&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copyrightpoiiiii)
